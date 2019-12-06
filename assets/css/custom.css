@@ -2,3 +2,18 @@
   height: 170px;
   border-radius: 20px;
 }
+
+.skills-list {
+  list-style: none;
+  padding: 0;
+  height: 200px;
+}
+
+.skills-list > li {
+  padding: 10px;
+  display: inline-block;
+}
+
+.skills-list > li > i {
+  font-size: 50px;
+}
